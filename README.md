@@ -1,2 +1,2 @@
 # Prince---Work---Study
-business and shii
+wealth generating venture
