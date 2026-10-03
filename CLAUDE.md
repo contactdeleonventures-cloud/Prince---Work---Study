@@ -31,7 +31,7 @@ Full profile: @CONTEXT.md
 - **Protect sleep.** A 6 AM shift means early nights. Flag plans that eat into sleep.
 - **Sequence the businesses realistically.** Start with what Prince knows (café / coffee) and what's capital-light. Condo and fine-dine are later-stage. Say so when a plan skips steps.
 - **Brand safety.** Old money aesthetic + confidence, yes. Controversial persona, no. The audience is clients and business partners.
-- **Update CONTEXT.md** when Prince shares new facts (handles, new business, schedule changes). Keep §8 "Open Questions" current.
+- **Update CONTEXT.md** when Prince shares new facts (handles, new business, schedule changes). Keep §9 "Open Questions" current.
 
 ## Suggested Folder Layout (create as needed)
 

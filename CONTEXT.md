@@ -15,7 +15,9 @@
 | **School** | University of Cebu, BS Entrepreneurship, 4th year |
 | **Work** | Full-time barista at Dr. Coffee |
 | **Self-description** | Kind. Multitasker. Goated. |
-| **Pronouns** | Not specified yet (use "Prince" or they/them) |
+| **Pronouns** | He/him |
+| **Business name** | Pejay |
+| **Instagram** | [@canupassmethewhitesugarplease](https://instagram.com/canupassmethewhitesugarplease) |
 
 **What this repo is for:** my personal brand, my training (body + skills), and my work (Dr. Coffee, school, future businesses).
 
@@ -26,7 +28,7 @@
 - Living an **old money lifestyle**: quiet wealth, class, discipline
 - Owning **3–5 successful businesses**
 - **Financially free**
-- **Starting law school** and continuing to build
+- **Starting law school** at **University of San Jose–Recoletos (USJ-R)**, Cebu, and continuing to build
 
 ### Business ideas (none launched yet)
 1. Café
@@ -35,7 +37,7 @@
 4. Condominium
 5. Gym
 
-**Right now:** about to set up a business as a course requirement for BS Entrep. That's business #1 in practice, so treat it as a real launch, not just a school project.
+**Right now:** about to set up a business as a course requirement for BS Entrep: a **smart café system**, under the name **Pejay**. That's business #1 in practice, so treat it as a real launch, not just a school project.
 
 ---
 
@@ -68,14 +70,15 @@
 - Prayer
 - Reading
 - No-phone mornings
-- Gym
+- Gym (currently weekends only, so it isn't daily yet)
 
 ---
 
 ## 6. Training
 
 ### Physical
-- **Activities:** gym, running, football (when free)
+- **Activities:** gym (currently weekends only), running, football (when free)
+- **Routine:** no fixed split yet
 - **Goal:** lean, athletic, healthy
 
 ### Skills currently leveling up
@@ -100,6 +103,8 @@ Visual-first. Mix of reading, watching videos, quizzes, and hands-on practice. U
 
 ### Platforms
 TikTok · Instagram · Facebook. **Starting from zero.**
+- Instagram: @canupassmethewhitesugarplease
+- TikTok / Facebook: not shared yet
 
 ### Content pillars (rotate, one pillar per post)
 1. **Student entrepreneur grind** (main pillar, the story that ties it all together)
@@ -124,11 +129,17 @@ TikTok · Instagram · Facebook. **Starting from zero.**
 
 ---
 
-## 8. Open Questions / To Fill In Later
+## 8. Money
 
-- Pronouns
-- Social handles (TikTok / IG / FB)
-- Which business is the course-requirement business, plus the target launch date
-- Current monthly income / budget baseline (for money tracking)
-- Current gym split and stats (for the workout plan)
-- Target law school and timeline
+- **Monthly income:** ~₱12,000 (Dr. Coffee)
+- **Budget:** ~₱1,000/month (set by Prince; what it covers isn't defined yet)
+- No formal budget or tracking yet. Build one.
+
+---
+
+## 9. Open Questions / To Fill In Later
+
+- TikTok / Facebook handles
+- What the ₱1k/month budget covers, and where the other ~₱11k goes
+- Smart café system: what exactly it does, who the customer is, and the launch/deadline date
+- Gym split (only weekends for now)
