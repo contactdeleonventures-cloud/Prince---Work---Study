@@ -17,7 +17,8 @@
 | **Self-description** | Kind. Multitasker. Goated. |
 | **Pronouns** | He/him |
 | **Business name** | Pejay |
-| **Instagram** | [@canupassmethewhitesugarplease](https://instagram.com/canupassmethewhitesugarplease) |
+| **Instagram** | [@canupassmethewhitesugarplease](https://instagram.com/canupassmethewhitesugarplease) (keeping it, already has an audience) |
+| **Business handle** | @pejay.co (for Pejay / new platforms) |
 
 **What this repo is for:** my personal brand, my training (body + skills), and my work (Dr. Coffee, school, future businesses).
 
@@ -37,7 +38,7 @@
 4. Condominium
 5. Gym
 
-**Right now:** about to set up a business as a course requirement for BS Entrep: a **smart café system**, under the name **Pejay**. That's business #1 in practice, so treat it as a real launch, not just a school project.
+**Right now:** about to set up a business as a course requirement for BS Entrep: a **smart café system**, under the name **Pejay**. It's a **QR menu** already in real use at the school café, and the plan is to upgrade it with major new features. That's business #1 in practice, so treat it as a real launch, not just a school project.
 
 ---
 
@@ -70,15 +71,16 @@
 - Prayer
 - Reading
 - No-phone mornings
-- Gym (currently weekends only, so it isn't daily yet)
+- Gym (Tue, Thu + weekends)
 
 ---
 
 ## 6. Training
 
 ### Physical
-- **Activities:** gym (currently weekends only), running, football (when free)
-- **Routine:** no fixed split yet
+- **Activities:** gym, running, football (when free)
+- **Training days:** Tuesday, Thursday, Saturday, Sunday
+- **Routine:** no fixed split yet (build one for these 4 days)
 - **Goal:** lean, athletic, healthy
 
 ### Skills currently leveling up
@@ -103,7 +105,8 @@ Visual-first. Mix of reading, watching videos, quizzes, and hands-on practice. U
 
 ### Platforms
 TikTok · Instagram · Facebook. **Starting from zero.**
-- Instagram: @canupassmethewhitesugarplease
+- Instagram: @canupassmethewhitesugarplease (personal, keeping it)
+- Business handle: @pejay.co
 - TikTok / Facebook: not shared yet
 
 ### Content pillars (rotate, one pillar per post)
@@ -131,15 +134,16 @@ TikTok · Instagram · Facebook. **Starting from zero.**
 
 ## 8. Money
 
-- **Monthly income:** ~₱12,000 (Dr. Coffee)
-- **Budget:** ~₱1,000/month (set by Prince; what it covers isn't defined yet)
-- No formal budget or tracking yet. Build one.
+- **Monthly income:** ~₱12,000 (Dr. Coffee), paid **semi-monthly: ~₱6,000 every cutoff (15th and end of month)**
+- **Budget:** ~₱1,000/month (set by Prince, treated as the "wants" budget for now)
+- Claude acts as **financial advisor**. Draft plan: `money/budget-plan.md`
 
 ---
 
 ## 9. Open Questions / To Fill In Later
 
 - TikTok / Facebook handles
-- What the ₱1k/month budget covers, and where the other ~₱11k goes
-- Smart café system: what exactly it does, who the customer is, and the launch/deadline date
-- Gym split (only weekends for now)
+- Actual monthly expenses (rent/family contribution, food, transport, load, school) to finalize the budget
+- Current savings / debts
+- QR menu upgrade: which features, who pays, and the course deadline
+- Gym split for Tue/Thu/Sat/Sun
