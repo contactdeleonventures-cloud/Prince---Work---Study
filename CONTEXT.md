@@ -45,7 +45,7 @@
 ## 3. Work — Dr. Coffee
 
 - Full-time barista, **6:00 AM – 3:00 PM, every day**
-- Also helps **Edward** with other things around Dr. Coffee
+- Also helps **Edward** with other things around Dr. Coffee, including **marketing plans and execution** (posters, captions, promos). Deep work slot: Mondays 3:20–4:30 PM
 - Wants to **grow inside Dr. Coffee** and help it **expand**
 - Sees Dr. Coffee as a **huge stepping stone** after graduation, a front-row view of how a café actually runs (directly relevant to business idea #1)
 

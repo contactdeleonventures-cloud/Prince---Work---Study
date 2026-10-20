@@ -30,7 +30,7 @@
 |---|---|
 | 3:00 PM | Out, snack, travel |
 | 3:20–4:30 | **Deep work block** (phone on DND) |
-| | Mon → **Pejay** (QR menu upgrade) |
+| | Mon → **Dr. Coffee marketing**: plans, posters, captions, promos |
 | | Wed → **School** requirements |
 | | Fri → **Content** (edit + post) |
 | 4:30 | Travel to class |
@@ -59,7 +59,7 @@
 | 4:30–5:00 | Shower, eat |
 | 5:00–7:30 | **Brand & business block** |
 | | Sat → **Content batch day**: film 3–5 videos for the week |
-| | Sun → **Weekly review**: money check, next week's content calendar, Pejay progress |
+| | Sun → **Weekly review**: money check, next week's content calendar, Dr. Coffee marketing check |
 | 7:30–8:45 | Dinner, family, friends, chill |
 | 9:00 | **Prayer** |
 | 9:15 PM | **Lights out** |
