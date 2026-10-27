@@ -30,7 +30,7 @@
 |---|---|
 | 3:00 PM | Out, snack, travel |
 | 3:20–4:30 | **Deep work block** (phone on DND) |
-| | Mon → **Dr. Coffee marketing**: plans, posters, captions, promos |
+| | Mon → **Dr. Coffee marketing**: design this week's Tue/Thu/Sat posters (Dr. Coffee + Dr. Chicken), send to Edward for approval |
 | | Wed → **School** requirements |
 | | Fri → **Content** (edit + post) |
 | 4:30 | Travel to class |
@@ -45,7 +45,7 @@
 
 | Time | Task |
 |---|---|
-| 3:00 PM | Out, light snack |
+| 3:00 PM | Out, light snack. **Post/schedule today's approved poster** (5 min) |
 | 3:15–4:15 | **Gym** (60 min, in and out) |
 | 4:15–4:45 | Shower, eat, travel |
 | 5:00–7:30 | **Class** |
@@ -55,11 +55,12 @@
 
 | Time | Task |
 |---|---|
+| 3:00 PM | **Sat: post/schedule today's approved poster** (5 min) |
 | 3:15–4:30 | **Gym / run / football** |
 | 4:30–5:00 | Shower, eat |
 | 5:00–7:30 | **Brand & business block** |
 | | Sat → **Content batch day**: film 3–5 videos for the week |
-| | Sun → **Weekly review**: money check, next week's content calendar, Dr. Coffee marketing check |
+| | Sun → **Weekly review**: money check, next week's content calendar, brainstorm next week's 3 posters |
 | 7:30–8:45 | Dinner, family, friends, chill |
 | 9:00 | **Prayer** |
 | 9:15 PM | **Lights out** |
